@@ -1,6 +1,6 @@
 // Replace this with the KYRA Bottles WhatsApp number in international format.
 // Example for India: 919876543210 (no +, spaces or dashes).
-const WHATSAPP_NUMBER = "919876543210";
+const WHATSAPP_NUMBER = "918400509922";
 
 const menu = document.querySelector(".menu");
 const nav = document.querySelector("#navlinks");
